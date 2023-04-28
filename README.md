@@ -36,7 +36,7 @@ Make sure to replace the placeholders with appropriate values:
 This will start the container with the specified configurations using the `cuni-multilingual-translation-service` image version 2.1.0.
 For more details about the API endpoints, please refer to the `client-readme.md` file.
 
-## Contributers
+## Contributors
 Hashem Sellat  
 Mateusz Krubiński  
 
